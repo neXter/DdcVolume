@@ -45,3 +45,7 @@ The result is in `bin\Release\net10.0-windows\win-x64\publish\DdcVolume.exe`.
 ## About
 
 Built by Pieter Walsweer (2026) with the help of Claude by Anthropic.
+
+Source: <https://github.com/neXter/DdcVolume>
+
+Licensed under the [MIT License](LICENSE).
